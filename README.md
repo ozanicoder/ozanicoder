@@ -1,20 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=19&section=header"/>
 
-<div align="center">
-  
-  <b></b>
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=700&color=3F67FF&repeat=false&width=437&lines=ozanicoder%40github%3A" alt="Typing SVG" />
 
 <div  width="100%" >
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&width=435&lines=~%24+.+.+.;~%24+Hello%2C+friend;~%24+I'm+a+Web+Developer;~%24+Also+a+Cybersecurity+enthusiast;~%24+God+bless+you%2C+and+be+welcome!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&width=435&lines=~%24+Hello%2C+friend.;~%24+I'm+a+Web+Developer;~%24+Also+a+Cybersecurity+enthusiast;~%24+God+bless+you%2C+and+be+welcome!" alt="Typing SVG" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Developer-Web%20%26%20Cybersecurity-black" />
-</div>
       
 <br>
 <br>
