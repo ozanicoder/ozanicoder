@@ -5,7 +5,7 @@
   <b></b>
 </div>
 
-<div align="center" width="100%">
+<div  width="100%" >
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&width=435&lines=~%24+.+.+.;~%24+Hello%2C+friend;~%24+I'm+a+Web+Developer;~%24+Also+a+Cybersecurity+enthusiast;~%24+God+bless+you%2C+and+be+welcome!" alt="Typing SVG" />
 </div>
@@ -76,7 +76,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ozanicoder&style=flat-square&color=8f2c5b" /></p> 
+  <p align="center"><a href="https://komarev.com/ghpvc/" ><img align="center" src="https://komarev.com/ghpvc/?username=ozanicoder&style=flat-square&color=8f2c5b" /></a></p> 
 </div>
 
 <br>
